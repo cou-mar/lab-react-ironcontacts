@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,22 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+h1{
+  text-align: center;
+}
+
+.buttons{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+.picture{
+  height: 100px;
+}
+
+.trophy{
+  height: 30px;
 }
